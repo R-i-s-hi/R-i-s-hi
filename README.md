@@ -33,14 +33,14 @@ Full-stack MERN production app with:
 - 🔐 Secure JWT auth + cookie-based sessions
 - 📊 Dynamic charts with Chart.js
 
-[🔗 Live Link](#) &nbsp;&nbsp;|&nbsp;&nbsp; [📁 Repo](https://github.com/R-i-s-hi/Wanderlust)
+[🔗 Live Link](https://wanderlust-zdku.onrender.com) &nbsp;&nbsp;|&nbsp;&nbsp; [📁 Repo](https://github.com/R-i-s-hi/Wanderlust)
 
 #### 💹 Zerodha Clone (in progress)  
 - Built using **Next.js + Supabase + Auth0**
 - AI integration with **Gemini API** for chat + image
 - Mobile-first design, deployed on Render/Vercel
 
-[📁 Repo](https://github.com/R-i-s-hi/zerodha-clone)
+[🔗 Live Link](https://zerodha-clone-landing-page.onrender.com/) &nbsp;&nbsp;|&nbsp;&nbsp; [📁 Repo](https://github.com/R-i-s-hi/zerodha-clone)
 
 ---
 
