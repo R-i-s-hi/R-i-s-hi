@@ -18,16 +18,16 @@
 
 ### 🧰 Tech Stack
 
-- **Frontend:** React.js, Tailwind CSS, Bootstrap, JavaScript
-- **Backend:** Node.js, Express.js, JWT, REST APIs
-- **Database:** MongoDB, Supabase (PostgreSQL)
-- **Other:** GitHub, Render, Vercel, Postman, Auth0
+- **Frontend:** React.js, React Router, Tailwind CSS, Bootstrap, JavaScript, Chart.js, MUI, MUI Icons
+- **Backend:** Node.js, Express.js, JWT Auth, CORS, Axios, REST APIs
+- **Database:** MongoDB, MySQL (Basic)
+- **Other:** GitHub, Render, Vercel, Postman
 
 ---
 
 ### 📌 Featured Projects
 
-#### 🚨 Wanderlust – Hotel Booking Platform  
+#### 🏨 Wanderlust – Hotel Booking Platform  
 Full-stack MERN production app with:
 - 🧾 Room CRUD operations
 - 🔐 Secure JWT auth + cookie-based sessions
@@ -35,10 +35,12 @@ Full-stack MERN production app with:
 
 [🔗 Live Link](https://wanderlust-zdku.onrender.com) &nbsp;&nbsp;|&nbsp;&nbsp; [📁 Repo](https://github.com/R-i-s-hi/Wanderlust)
 
-#### 💹 Zerodha Clone (in progress)  
-- Built using **Next.js + Supabase + Auth0**
-- AI integration with **Gemini API** for chat + image
-- Mobile-first design, deployed on Render/Vercel
+#### 💹 Zerodha Clone  
+Recreated the frontend and backend logic of India's largest trading platform:
+- ⚛️ Built with **React.js**, **React Router**, **MUI**, **Chart.js**
+- 🔐 Used **JWT Auth**, **Node.js**, **Express**, and **CORS**
+- 📦 Integrated **Axios** for real-time API calls
+- 🎯 Fully responsive and deployed on Render/Vercel
 
 [🔗 Live Link](https://zerodha-clone-landing-page.onrender.com/) &nbsp;&nbsp;|&nbsp;&nbsp; [📁 Repo](https://github.com/R-i-s-hi/zerodha-clone)
 
@@ -58,6 +60,13 @@ Full-stack MERN production app with:
 - 📍 Delhi, India
 - ✉️ tcrr2005@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/rishabh-singh-0684882a6)
+
+---
+
+### 🧭 Currently Exploring
+- 📘 Next.js App Router & Prisma
+- ☁️ Supabase / Firebase backend
+- 📦 TypeScript for better DX
 
 ---
 
