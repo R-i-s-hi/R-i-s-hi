@@ -46,15 +46,6 @@ Recreated the frontend and backend logic of India's largest trading platform:
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=R-i-s-hi&show_icons=true&theme=radical" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R-i-s-hi&theme=radical" width="400">
-</p>
-
----
-
 ### 📫 Reach Me
 
 - 📍 Delhi, India
