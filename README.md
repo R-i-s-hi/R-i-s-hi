@@ -9,10 +9,10 @@
 
 ### 👨‍💻 About Me
 
-- 🛠️ I build full-stack apps using **MERN stack**, with production-level auth and state management.
-- 📦 Solid with **React**, **Node.js**, **MongoDB**, and **JWT Auth**.
-- 💻 Learning **WebRTC**, **WebSockets**, and **protocols** to build real-time systems.
-- 🚀 Open for **collaborations** and freelance work.
+- I build full-stack apps using **MERN stack**, with production-level auth and state management.
+- Solid with **React**, **Node.js**, **MongoDB**, and **JWT Auth**.
+- Learning **WebRTC**, **WebSockets**, and **protocols** to build real-time systems.
+- Open for **collaborations** and freelance work.
 
 ---
 
@@ -27,20 +27,20 @@
 
 ### 📌 Featured Projects
 
-#### 🏨 Wanderlust – Hotel Booking Platform  
+#### Wanderlust – Hotel Booking Platform  
 Full-stack MERN production app with:
-- 🧾 Room CRUD operations
-- 🔐 Secure JWT auth + cookie-based sessions
-- 📊 Dynamic charts with Chart.js
+- Room CRUD operations
+- Secure JWT auth + cookie-based sessions
+- Dynamic charts with Chart.js
 
 [🔗 Live Link](https://wanderlust-zdku.onrender.com) &nbsp;&nbsp;|&nbsp;&nbsp; [📁 Repo](https://github.com/R-i-s-hi/Wanderlust)
 
-#### 💹 Zerodha Clone  
+#### Zerodha Clone  
 Recreated the frontend and backend logic of India's largest trading platform:
-- ⚛️ Built with **React.js**, **React Router**, **MUI**, **Chart.js**
-- 🔐 Used **JWT Auth**, **Node.js**, **Express**, and **CORS**
-- 📦 Integrated **Axios** for real-time API calls
-- 🎯 Fully responsive and deployed on Render/Vercel
+- Built with **React.js**, **React Router**, **MUI**, **Chart.js**
+- Used **JWT Auth**, **Node.js**, **Express**, and **CORS**
+- Integrated **Axios** for real-time API calls
+- Fully responsive and deployed on Render/Vercel
 
 [🔗 Live Link](https://zerodha-clone-landing-page.onrender.com/) &nbsp;&nbsp;|&nbsp;&nbsp; [📁 Repo](https://github.com/R-i-s-hi/zerodha-clone)
 
@@ -55,9 +55,9 @@ Recreated the frontend and backend logic of India's largest trading platform:
 ---
 
 ### 🧭 Currently Exploring
-- 📘 Next.js App Router & Prisma
-- ☁️ Supabase / Firebase backend
-- 📦 TypeScript for better DX
+- Next.js App Router & Prisma
+- Supabase / Firebase backend
+- TypeScript for better DX
 
 ---
 
