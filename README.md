@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rishabh Singh</h1>
-<h3 align="center">Full-Stack Developer | MERN | Java (DSA)</h3>
+<h3 align="center">Full-Stack Developer | MERN | NextJS</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Engineering+student+who+loves+code;MERN+Stack+Developer;Java+%7C+DSA+Lover;Always+learning+something+new&center=true&width=500&height=40">
@@ -16,9 +16,19 @@
 
 ---
 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="...">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="...">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="...">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="...">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="...">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="...">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="...">
+
+---
+
 ### 🧰 Tech Stack
 
-- **Frontend:** React.js, React Router, Tailwind CSS, Bootstrap, JavaScript, Chart.js, MUI, MUI Icons
+- **Frontend:** React.js, React Router, Tailwind CSS, Bootstrap, JavaScript
 - **Backend:** Node.js, Express.js, JWT Auth, CORS, Axios, REST APIs
 - **Database:** MongoDB, MySQL (Basic)
 - **Other:** GitHub, Render, Vercel, Postman
