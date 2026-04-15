@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rishabh Singh</h1>
-<h3 align="center">Full-Stack Developer | MERN | Next.js</h3>
+<h3 align="center">Full-Stack Developer | MERN | NextJS</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Engineering+student+who+loves+code;MERN+Stack+Developer;Java+%7C+DSA+Lover;Always+learning+something+new&center=true&width=500&height=40" alt="Typing SVG">
