@@ -104,17 +104,6 @@ I'm a Full-Stack Developer from **Delhi, India** who builds production-grade MER
 
 ---
 
-### 🏨 Wanderlust — Hotel Booking Platform
-> Production-grade MERN booking app with auth, sessions, and analytics
-
-- Room CRUD operations with full booking flow
-- Secure **JWT auth** + cookie-based sessions
-- Dynamic charts with **Chart.js**
-
-[🔗 Live](https://wanderlust-zdku.onrender.com) &nbsp;|&nbsp; [📁 Repo](https://github.com/R-i-s-hi/Wanderlust)
-
----
-
 ### 📈 Zerodha Clone — Trading Platform Frontend
 > Recreated India's largest trading platform — frontend + backend
 
@@ -123,6 +112,17 @@ I'm a Full-Stack Developer from **Delhi, India** who builds production-grade MER
 - Fully responsive, deployed on Render + Vercel
 
 [🔗 Live](https://zerodha-clone-landing-page.onrender.com/) &nbsp;|&nbsp; [📁 Repo](https://github.com/R-i-s-hi/zerodha-clone)
+
+---
+
+### 🏨 Wanderlust — Hotel Booking Platform
+> MERN hotel listing app with maps, auth and sessions
+
+- CRUD operations on hotel listing with responsive UI 
+- Secure **JWT auth** + cookie-based sessions
+- **Maps ferature** integration for each listing
+
+[🔗 Live](https://wanderlust-zdku.onrender.com) &nbsp;|&nbsp; [📁 Repo](https://github.com/R-i-s-hi/Wanderlust)
 
 ---
 
